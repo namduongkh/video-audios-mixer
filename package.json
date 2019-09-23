@@ -1,0 +1,23 @@
+{
+  "name": "video-audios-mixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namduongkh/video-audios-mixer.git"
+  },
+  "author": "Phong Nguyễn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namduongkh/video-audios-mixer/issues"
+  },
+  "homepage": "https://github.com/namduongkh/video-audios-mixer#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
